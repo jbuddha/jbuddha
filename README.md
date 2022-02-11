@@ -11,6 +11,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jbuddha?label=Follow%20me&logo=github&style=flat-square)
 [![](https://img.shields.io/badge/-TWITTER-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/prbuddha/)
 [![](https://img.shields.iohttps://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prbuddha/)
+[![](https://img.shields.iohttps://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prbuddha/)
 
 ## GitHub Stats 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbuddha&show_icons=true&layout=compact"><span> </span><img width="40%" src="https://github-readme-stats.vercel.app/api?username=jbuddha&show_icons=true"> <br>
