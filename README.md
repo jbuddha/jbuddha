@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working ...  As an Sr.SDE at Amazon, I created LiveCode a collaborative code editor used for hiring in Amazon and many systems not exposed to outside world for retail analytics.
+- 📚 I authored... ![Definitive Guide AWS Application Integration](https://link.springer.com/book/10.1007/978-1-4842-5401-1) for APress Publishers and several courses on ![JavaFX on Pluralsight](https://app.pluralsight.com/profile/author/buddha-jyothiprasad)
 - 🌱 I’m currently learning ... anything I come across in Software, lightweight processes, Sustainable lifestle.  
 - 👯 I’m looking to collaborate on ...  Anything that helps people to learn new stuff and be productive. 
 - 💬 Ask me anything ...   Yes, I am happy to help, learn and collaborate anything you see in my repos or you read about me. 
@@ -12,6 +13,4 @@
 [![](https://img.shields.iohttps://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prbuddha/)
 
 ## GitHub Stats 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=jbuddha&show_icons=true"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbuddha&show_icons=true&layout=compact"> <br>
-
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbuddha&show_icons=true&layout=compact"><span> </span><img width="40%" src="https://github-readme-stats.vercel.app/api?username=jbuddha&show_icons=true"> <br>
