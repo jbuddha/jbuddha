@@ -12,4 +12,4 @@
 [![](https://img.shields.iohttps://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/prbuddha/)
 
 ## GitHub Stats 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=jbuddha&show_icons=true"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbuddha&show_icons=true&layout=compact"> <br>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=jbuddha&show_icons=true"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbuddha&show_icons=true"> <br>
