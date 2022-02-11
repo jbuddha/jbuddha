@@ -8,9 +8,9 @@
 - 📫 How to reach me: https://twitter.com/prbuddha  https://www.linkedin.com/in/prbuddha
 
 ## Connect with me
-![GitHub followers](https://img.shields.io/github/followers/jbuddha?label=Follow%20me&logo=github&style=flat-square)
-[![](https://img.shields.io/badge/-twitter-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/prbuddha/)
-[![](https://img.shields.io/badge/-linkedin-blue&logo=linkedin)](https://www.linkedin.com/in/prbuddha/)
+![GitHub followers](https://img.shields.io/github/followers/jbuddha?label=Follow%20me&logo=github)
+[![](https://img.shields.io/badge/-twitter-informational?logo=twitter)](https://twitter.com/prbuddha/)
+[![](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/prbuddha/)
 
 ## GitHub Stats 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbuddha&show_icons=true&layout=compact"><span> </span><img width="40%" src="https://github-readme-stats.vercel.app/api?username=jbuddha&show_icons=true"> <br>
