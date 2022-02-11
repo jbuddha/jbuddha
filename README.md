@@ -6,7 +6,7 @@
 - 💬 Ask me anything ...   Yes, I am happy to help, learn and collaborate anything you see in my repos or you read about me. 
 
 ## Connect with me
-[![](https://img.shields.io/github/followers/jbuddha?style=social)](/#)
+[![](https://img.shields.io/github/followers/jbuddha?style=social)](https://github.com/jbuddha/)
 [![](https://img.shields.io/badge/-twitter-informational?logo=twitter)](https://twitter.com/prbuddha/)
 [![](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/prbuddha/)
 
